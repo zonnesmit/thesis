@@ -195,6 +195,12 @@
         <mxCell id="M9NP7c3d9_Dhi2otN2f7-36" value="transform" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" name="transform" vertex="1" parent="1">
           <mxGeometry x="1200" y="730" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="-gwLxtmtV5UTMdEQe-Mx-2" value="added symbol &amp;amp; transform" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
+          <mxGeometry x="1208.75" y="640" width="82.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SqBSWEIXmweXwU67CkGR-1" value="merged the two data inputs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
+          <mxGeometry x="985" y="920" width="82.5" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
