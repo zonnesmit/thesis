@@ -300,19 +300,13 @@
         <mxCell id="hnpGc3WQff09hSk8R3x2-47" value="data&#xa;Patient Data" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="1">
           <mxGeometry x="1980" y="750" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hnpGc3WQff09hSk8R3x2-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hnpGc3WQff09hSk8R3x2-49" target="hnpGc3WQff09hSk8R3x2-52">
+        <mxCell id="Cxv68juwmT9KkRRPF6Fv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hnpGc3WQff09hSk8R3x2-49" target="Cxv68juwmT9KkRRPF6Fv-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hnpGc3WQff09hSk8R3x2-49" value="data:tensor&#xa;Damage Severity" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="1">
           <mxGeometry x="1830" y="1080" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hnpGc3WQff09hSk8R3x2-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hnpGc3WQff09hSk8R3x2-52" target="hnpGc3WQff09hSk8R3x2-53">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hnpGc3WQff09hSk8R3x2-52" value="transform:embed" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" name="transform" vertex="1" parent="1" tooltip="⚠️ Node not part of any valid pattern.">
-          <mxGeometry x="1670" y="1190" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="hnpGc3WQff09hSk8R3x2-53" value="symbol&#xa;Damage Severity" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" parent="1" tooltip="⚠️ Node not part of any valid pattern.">
+        <mxCell id="hnpGc3WQff09hSk8R3x2-53" value="symbol&#xa;Damage Severity" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" parent="1">
           <mxGeometry x="1500" y="1190" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kkfemR9D_VRHw6LB1-ew-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kkfemR9D_VRHw6LB1-ew-1" target="hnpGc3WQff09hSk8R3x2-15">
@@ -392,6 +386,18 @@
         </mxCell>
         <mxCell id="MEgtLnm87nm8Q2mNMx2n-6" value="added an infer:deduce process to go from model to data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
           <mxGeometry x="1950" y="900" width="90" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Cxv68juwmT9KkRRPF6Fv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cxv68juwmT9KkRRPF6Fv-5" target="Cxv68juwmT9KkRRPF6Fv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cxv68juwmT9KkRRPF6Fv-5" value="model" style="shape=hexagon;perimeter=hexagonPerimeter2;fillColor=#b0e3e6;strokeColor=#0e8088;" name="model" vertex="1" parent="1">
+          <mxGeometry x="1660" y="1300" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Cxv68juwmT9KkRRPF6Fv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cxv68juwmT9KkRRPF6Fv-7" target="hnpGc3WQff09hSk8R3x2-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cxv68juwmT9KkRRPF6Fv-7" value="infer:deduce" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#bac8d3;strokeColor=#23445d;" name="infer:deduce" vertex="1" parent="1">
+          <mxGeometry x="1670" y="1190" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
