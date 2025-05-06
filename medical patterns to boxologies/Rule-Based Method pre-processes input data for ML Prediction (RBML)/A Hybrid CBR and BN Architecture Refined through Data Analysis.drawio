@@ -199,10 +199,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9yyuNC976GNHtUHDABG1-35" value="model" style="shape=hexagon;perimeter=hexagonPerimeter2;fillColor=#b0e3e6;strokeColor=#0e8088;" name="model" vertex="1" parent="1">
-          <mxGeometry x="1010" y="1150" width="120" height="50" as="geometry" />
+          <mxGeometry x="1010" y="1140" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9yyuNC976GNHtUHDABG1-37" value="added model" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;horizontal=1;" name="text" vertex="1" parent="1">
-          <mxGeometry x="1080" y="1115" width="82.5" height="30" as="geometry" />
+          <mxGeometry x="1090" y="1085" width="82.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
