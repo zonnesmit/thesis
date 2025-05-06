@@ -4,6 +4,18 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SUJAVzPCyBz31thAN7e9-23" value="2a Output" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
+          <mxGeometry x="400" y="600" width="300" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="SUJAVzPCyBz31thAN7e9-22" value="1a Train WNN" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
+          <mxGeometry x="720" y="600" width="340" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SUJAVzPCyBz31thAN7e9-21" value="1d Fuzzy Logic Analysis" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
+          <mxGeometry x="1080" y="400" width="190" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="SUJAVzPCyBz31thAN7e9-20" value="1d Feature Extraction" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
+          <mxGeometry x="720" y="400" width="340" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="SUJAVzPCyBz31thAN7e9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SUJAVzPCyBz31thAN7e9-1" target="SUJAVzPCyBz31thAN7e9-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
