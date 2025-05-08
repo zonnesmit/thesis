@@ -4,6 +4,24 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bAS_3HDvZGofkfSJnZUk-46" value="2a Prediction" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
+          <mxGeometry x="1230" y="440" width="360" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bAS_3HDvZGofkfSJnZUk-45" value="1a Learning Process" style="text;html=1;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
+          <mxGeometry x="910" y="390" width="310" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="bAS_3HDvZGofkfSJnZUk-44" value="2a FIS 2" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
+          <mxGeometry x="600" y="630" width="450" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bAS_3HDvZGofkfSJnZUk-43" value="1c FIS Creation" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
+          <mxGeometry x="270" y="440" width="320" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="bAS_3HDvZGofkfSJnZUk-40" value="2a FIS 1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
+          <mxGeometry x="600" y="390" width="300" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="bAS_3HDvZGofkfSJnZUk-39" value="1d Preprocessing and Feature Selection" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="310" height="140" as="geometry" />
+        </mxCell>
         <mxCell id="bAS_3HDvZGofkfSJnZUk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bAS_3HDvZGofkfSJnZUk-2" target="bAS_3HDvZGofkfSJnZUk-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -25,10 +43,10 @@
         <mxCell id="bAS_3HDvZGofkfSJnZUk-5" value="data&#xa;Extracted Features" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="1">
           <mxGeometry x="850" y="370" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bAS_3HDvZGofkfSJnZUk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bAS_3HDvZGofkfSJnZUk-7" target="bAS_3HDvZGofkfSJnZUk-9">
+        <mxCell id="bAS_3HDvZGofkfSJnZUk-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bAS_3HDvZGofkfSJnZUk-7" target="bAS_3HDvZGofkfSJnZUk-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bAS_3HDvZGofkfSJnZUk-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bAS_3HDvZGofkfSJnZUk-7" target="bAS_3HDvZGofkfSJnZUk-22">
+        <mxCell id="bAS_3HDvZGofkfSJnZUk-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bAS_3HDvZGofkfSJnZUk-7" target="bAS_3HDvZGofkfSJnZUk-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bAS_3HDvZGofkfSJnZUk-7" value="infer:deduce" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#bac8d3;strokeColor=#23445d;" name="infer:deduce" vertex="1" parent="1">
