@@ -70,7 +70,7 @@
         <mxCell id="yZvimFrY_nlzojKEufp5-22" value="data&#xa;Patient Data +&#xa;CT Scan" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="1">
           <mxGeometry x="700" y="890" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yZvimFrY_nlzojKEufp5-24" value="symbol&#xa;Predicted Infraction&#xa;Volume Growth" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" parent="1">
+        <mxCell id="yZvimFrY_nlzojKEufp5-24" value="symbol&#xa;Predicted Infarction&#xa;Volume Growth" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" parent="1">
           <mxGeometry x="880" y="760" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
@@ -141,7 +141,7 @@
         <mxCell id="czkTXJenvEceiynPg-R8-22" value="data&#xa;Patient Data +&#xa;CT Scan" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="1">
           <mxGeometry x="700" y="890" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="czkTXJenvEceiynPg-R8-23" value="symbol&#xa;Predicted Infraction&#xa;Volume Growth" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" parent="1">
+        <mxCell id="czkTXJenvEceiynPg-R8-23" value="symbol&#xa;Predicted Infarction&#xa;Volume Growth" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" parent="1">
           <mxGeometry x="880" y="760" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="czkTXJenvEceiynPg-R8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="czkTXJenvEceiynPg-R8-24" target="czkTXJenvEceiynPg-R8-13">
