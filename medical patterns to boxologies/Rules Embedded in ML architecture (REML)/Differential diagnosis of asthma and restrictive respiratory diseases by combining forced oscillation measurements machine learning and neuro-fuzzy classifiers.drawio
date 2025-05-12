@@ -166,7 +166,7 @@
           <mxGeometry x="390" y="1050" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Kb1GCWCVi0Jfu8suCd4p-28" value="merged two symbol outputs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
-          <mxGeometry x="530" y="1055" width="80" height="40" as="geometry" />
+          <mxGeometry x="530" y="1055" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="Kb1GCWCVi0Jfu8suCd4p-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kb1GCWCVi0Jfu8suCd4p-29" target="Kb1GCWCVi0Jfu8suCd4p-13">
           <mxGeometry relative="1" as="geometry" />
