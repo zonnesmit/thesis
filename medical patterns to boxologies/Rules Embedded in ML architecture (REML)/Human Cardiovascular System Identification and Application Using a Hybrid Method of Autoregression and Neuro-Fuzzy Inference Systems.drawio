@@ -25,7 +25,7 @@
         <mxCell id="aLVupdV_c1AP2KSebhh2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLVupdV_c1AP2KSebhh2-6" target="aLVupdV_c1AP2KSebhh2-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aLVupdV_c1AP2KSebhh2-6" value="transform" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" name="transform" vertex="1" parent="1">
+        <mxCell id="aLVupdV_c1AP2KSebhh2-6" value="transform" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" name="transform" vertex="1" parent="1" tooltip="⚠️ Node not part of any valid pattern.">
           <mxGeometry x="520" y="430" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aLVupdV_c1AP2KSebhh2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLVupdV_c1AP2KSebhh2-8" target="aLVupdV_c1AP2KSebhh2-10">
@@ -34,25 +34,25 @@
         <mxCell id="aLVupdV_c1AP2KSebhh2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLVupdV_c1AP2KSebhh2-8" target="aLVupdV_c1AP2KSebhh2-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aLVupdV_c1AP2KSebhh2-8" value="data:numeric&#xa;Seperated Signal&#xa;Components" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="1">
+        <mxCell id="aLVupdV_c1AP2KSebhh2-8" value="data:numeric&#xa;Seperated Signal&#xa;Components" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="1" tooltip="⚠️ Node not part of any valid pattern.">
           <mxGeometry x="390" y="530" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aLVupdV_c1AP2KSebhh2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLVupdV_c1AP2KSebhh2-10" target="aLVupdV_c1AP2KSebhh2-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aLVupdV_c1AP2KSebhh2-10" value="transform" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" name="transform" vertex="1" parent="1">
+        <mxCell id="aLVupdV_c1AP2KSebhh2-10" value="transform" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" name="transform" vertex="1" parent="1" tooltip="⚠️ Node not part of any valid pattern.">
           <mxGeometry x="260" y="630" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aLVupdV_c1AP2KSebhh2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLVupdV_c1AP2KSebhh2-12" target="aLVupdV_c1AP2KSebhh2-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aLVupdV_c1AP2KSebhh2-12" value="symbol&#xa;Degree of&#xa;Correlation" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" parent="1">
+        <mxCell id="aLVupdV_c1AP2KSebhh2-12" value="symbol&#xa;Degree of&#xa;Correlation" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" parent="1" tooltip="⚠️ Node not part of any valid pattern.">
           <mxGeometry x="390" y="730" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aLVupdV_c1AP2KSebhh2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLVupdV_c1AP2KSebhh2-14" target="aLVupdV_c1AP2KSebhh2-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aLVupdV_c1AP2KSebhh2-14" value="generate:train" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" name="generate:train" vertex="1" parent="1">
+        <mxCell id="aLVupdV_c1AP2KSebhh2-14" value="generate:train" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" name="generate:train" vertex="1" parent="1" tooltip="⚠️ Node not part of any valid pattern.">
           <mxGeometry x="520" y="630" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aLVupdV_c1AP2KSebhh2-17" value="model:semantic&#xa;NFIS" style="shape=hexagon;perimeter=hexagonPerimeter2;fillColor=#b0e3e6;strokeColor=#0e8088;" name="model" vertex="1" parent="1">
@@ -96,6 +96,9 @@
         </mxCell>
         <mxCell id="aLVupdV_c1AP2KSebhh2-36" value="&lt;div&gt;error&lt;/div&gt;&lt;div&gt;--&amp;gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
           <mxGeometry x="1280" y="640" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aLVupdV_c1AP2KSebhh2-37" value="error" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
+          <mxGeometry x="390" y="670" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
