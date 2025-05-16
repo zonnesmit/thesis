@@ -49,7 +49,7 @@
         <mxCell id="tt4OFCGAbrIiFNeCSwZj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tt4OFCGAbrIiFNeCSwZj-15" target="tt4OFCGAbrIiFNeCSwZj-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tt4OFCGAbrIiFNeCSwZj-15" value="transform:embed" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" name="transform" vertex="1" parent="1">
+        <mxCell id="tt4OFCGAbrIiFNeCSwZj-15" value="transform:embed" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" name="transform" vertex="1" parent="1" tooltip="⚠️ Node not part of any valid pattern.">
           <mxGeometry x="260" y="690" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tt4OFCGAbrIiFNeCSwZj-17" value="symbol&#xa;Segmentation&#xa;Maps" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" parent="1" tooltip="⚠️ Node not part of any valid pattern.">
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="tt4OFCGAbrIiFNeCSwZj-23" value="data&#xa;Silico Data and&#xa;In Vivo Data" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="1">
           <mxGeometry x="880" y="560" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tt4OFCGAbrIiFNeCSwZj-25" value="error" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
+          <mxGeometry x="380" y="700" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
