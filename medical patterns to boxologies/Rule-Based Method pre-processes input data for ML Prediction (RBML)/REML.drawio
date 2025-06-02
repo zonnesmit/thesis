@@ -1,5 +1,5 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.1.1" pages="2">
-  <diagram id="oA1FpRplDqC-GJJbkCT9" name="REML Generalized">
+  <diagram id="oA1FpRplDqC-GJJbkCT9" name="REML Generalized Pattern">
     <mxGraphModel dx="1209" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -89,7 +89,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="LnQA7NeD5pWyeA027Ttc" name="REML2">
+  <diagram id="LnQA7NeD5pWyeA027Ttc" name="REML First Refined Pattern">
     <mxGraphModel dx="1310" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
