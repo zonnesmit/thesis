@@ -1,102 +1,102 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.1.1" pages="6">
   <diagram id="oA1FpRplDqC-GJJbkCT9" name="REML Generalized Pattern">
-    <mxGraphModel dx="4623" dy="1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="5593" dy="1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <UserObject label="2a Prediction Making" link="data:page/id,AcmrKRkgNT12GRiLd8u0" id="tmgDHccnFJkSAK9zo8aV-28">
           <mxCell style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
-            <mxGeometry x="-1968" y="494" width="370" height="170" as="geometry" />
+            <mxGeometry x="-2696" y="665" width="370" height="170" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="1a Embed Rules in Layers" link="data:page/id,9uLMIDaNepioojl0RxjD" id="tmgDHccnFJkSAK9zo8aV-27">
           <mxCell style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
-            <mxGeometry x="-1588" y="304" width="360" height="110" as="geometry" />
+            <mxGeometry x="-2316" y="475" width="360" height="110" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="1a Train Model" link="data:page/id,NLweTCLcVa4KWeWz6Whe" id="tmgDHccnFJkSAK9zo8aV-26">
           <mxCell style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
-            <mxGeometry x="-1908" y="204" width="310" height="280" as="geometry" />
+            <mxGeometry x="-2636" y="375" width="310" height="280" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="1d Pre-processing" link="data:page/id,_w0Uxt3RLLghRVp-99MB" id="tmgDHccnFJkSAK9zo8aV-25">
           <mxCell style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
-            <mxGeometry x="-2278" y="204" width="360" height="110" as="geometry" />
+            <mxGeometry x="-3006" y="375" width="360" height="110" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="tmgDHccnFJkSAK9zo8aV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tmgDHccnFJkSAK9zo8aV-1" target="tmgDHccnFJkSAK9zo8aV-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tmgDHccnFJkSAK9zo8aV-1" value="data" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="1">
-          <mxGeometry x="-2328" y="234" width="100" height="50" as="geometry" />
+          <mxGeometry x="-3056" y="405" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tmgDHccnFJkSAK9zo8aV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tmgDHccnFJkSAK9zo8aV-2" target="tmgDHccnFJkSAK9zo8aV-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tmgDHccnFJkSAK9zo8aV-2" value="transform" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" name="transform" vertex="1" parent="1">
-          <mxGeometry x="-2148" y="234" width="100" height="50" as="geometry" />
+          <mxGeometry x="-2876" y="405" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tmgDHccnFJkSAK9zo8aV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tmgDHccnFJkSAK9zo8aV-4" target="tmgDHccnFJkSAK9zo8aV-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tmgDHccnFJkSAK9zo8aV-4" value="data" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="1">
-          <mxGeometry x="-1968" y="234" width="100" height="50" as="geometry" />
+          <mxGeometry x="-2696" y="405" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tmgDHccnFJkSAK9zo8aV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tmgDHccnFJkSAK9zo8aV-8" target="tmgDHccnFJkSAK9zo8aV-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="model:hybrid&#xa;Inference Engine" tooltip="case-based&#xa;dynamic&#xa;hybrid&#xa;ML&#xa;rule-based&#xa;semantic&#xa;static&#xa;statisic&#xa;statistical" id="tmgDHccnFJkSAK9zo8aV-8">
           <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;fillColor=#b0e3e6;strokeColor=#0e8088;" name="model" vertex="1" parent="1">
-            <mxGeometry x="-1658" y="334" width="120" height="50" as="geometry" />
+            <mxGeometry x="-2386" y="505" width="120" height="50" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="tmgDHccnFJkSAK9zo8aV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tmgDHccnFJkSAK9zo8aV-10" target="tmgDHccnFJkSAK9zo8aV-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tmgDHccnFJkSAK9zo8aV-10" value="infer:deduce" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#bac8d3;strokeColor=#23445d;" name="infer:deduce" vertex="1" parent="1">
-          <mxGeometry x="-1838" y="334" width="100" height="50" as="geometry" />
+          <mxGeometry x="-2566" y="505" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tmgDHccnFJkSAK9zo8aV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tmgDHccnFJkSAK9zo8aV-13" target="tmgDHccnFJkSAK9zo8aV-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tmgDHccnFJkSAK9zo8aV-13" value="generate:train" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" name="generate:train" vertex="1" parent="1">
-          <mxGeometry x="-1458" y="334" width="100" height="50" as="geometry" />
+          <mxGeometry x="-2186" y="505" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tmgDHccnFJkSAK9zo8aV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tmgDHccnFJkSAK9zo8aV-15" target="tmgDHccnFJkSAK9zo8aV-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tmgDHccnFJkSAK9zo8aV-15" value="symbol" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" parent="1">
-          <mxGeometry x="-1278" y="334" width="100" height="50" as="geometry" />
+          <mxGeometry x="-2006" y="505" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tmgDHccnFJkSAK9zo8aV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tmgDHccnFJkSAK9zo8aV-17" target="tmgDHccnFJkSAK9zo8aV-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="model" tooltip="case-based&#xa;dynamic&#xa;hybrid&#xa;ML&#xa;rule-based&#xa;semantic&#xa;static&#xa;statisic&#xa;statistical" id="tmgDHccnFJkSAK9zo8aV-17">
           <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;fillColor=#b0e3e6;strokeColor=#0e8088;" name="model" vertex="1" parent="1">
-            <mxGeometry x="-1848" y="464" width="120" height="50" as="geometry" />
+            <mxGeometry x="-2576" y="635" width="120" height="50" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="tmgDHccnFJkSAK9zo8aV-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tmgDHccnFJkSAK9zo8aV-19" target="tmgDHccnFJkSAK9zo8aV-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tmgDHccnFJkSAK9zo8aV-19" value="infer:deduce" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#bac8d3;strokeColor=#23445d;" name="infer:deduce" vertex="1" parent="1">
-          <mxGeometry x="-1838" y="594" width="100" height="50" as="geometry" />
+          <mxGeometry x="-2566" y="765" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tmgDHccnFJkSAK9zo8aV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tmgDHccnFJkSAK9zo8aV-21" target="tmgDHccnFJkSAK9zo8aV-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tmgDHccnFJkSAK9zo8aV-21" value="data" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="1">
-          <mxGeometry x="-2018" y="594" width="100" height="50" as="geometry" />
+          <mxGeometry x="-2746" y="765" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tmgDHccnFJkSAK9zo8aV-23" value="symbol" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" parent="1">
-          <mxGeometry x="-1658" y="594" width="100" height="50" as="geometry" />
+          <mxGeometry x="-2386" y="765" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tmgDHccnFJkSAK9zo8aV-29" value="&lt;div&gt;edit:&lt;/div&gt;&lt;div&gt;generate -&amp;gt; infer&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
-          <mxGeometry x="-1958" y="339" width="105" height="40" as="geometry" />
+          <mxGeometry x="-2686" y="510" width="105" height="40" as="geometry" />
         </mxCell>
         <UserObject label="--&amp;gt; Link to First Refined Pattern" link="data:page/id,LnQA7NeD5pWyeA027Ttc" id="xHxAdk3osrtfgdsrnMTl-1">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
-            <mxGeometry x="-2278" y="164" width="180" height="30" as="geometry" />
+            <mxGeometry x="-3006" y="335" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
@@ -108,31 +108,31 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="B-JVje-D65B59EouBPuj-5" value="&lt;div&gt;2a Use the ANFIS&lt;/div&gt;&lt;div&gt;Model for Prediction&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
-          <mxGeometry x="1030" y="500" width="350" height="180" as="geometry" />
+          <mxGeometry x="1017" y="520" width="350" height="180" as="geometry" />
         </mxCell>
         <mxCell id="B-JVje-D65B59EouBPuj-4" value="1a Train the ANFIS Model" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
-          <mxGeometry x="680" y="380" width="340" height="400" as="geometry" />
+          <mxGeometry x="667" y="400" width="340" height="400" as="geometry" />
         </mxCell>
         <mxCell id="B-JVje-D65B59EouBPuj-3" value="1c Generate the Equivalent ANFIS Architecture" style="text;html=1;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
-          <mxGeometry x="280" y="640" width="390" height="220" as="geometry" />
+          <mxGeometry x="267" y="660" width="390" height="220" as="geometry" />
         </mxCell>
         <mxCell id="B-JVje-D65B59EouBPuj-2" value="1 Fuzzy Rough Set Application" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
-          <mxGeometry x="280" y="440" width="390" height="190" as="geometry" />
+          <mxGeometry x="267" y="460" width="390" height="190" as="geometry" />
         </mxCell>
         <mxCell id="B-JVje-D65B59EouBPuj-1" value="1d Pre-processing" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
-          <mxGeometry x="280" y="280" width="390" height="150" as="geometry" />
+          <mxGeometry x="267" y="300" width="390" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ckfWc3geHlRKN2jMbvU5-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ckfWc3geHlRKN2jMbvU5-87" target="ckfWc3geHlRKN2jMbvU5-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ckfWc3geHlRKN2jMbvU5-87" value="data&#xa;Raw&#xa;Mammographic" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" name="data" vertex="1">
-          <mxGeometry x="250" y="310" width="100" height="50" as="geometry" />
+          <mxGeometry x="237" y="330" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ckfWc3geHlRKN2jMbvU5-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ckfWc3geHlRKN2jMbvU5-88" target="ckfWc3geHlRKN2jMbvU5-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ckfWc3geHlRKN2jMbvU5-88" value="transform" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" name="transform" vertex="1">
-          <mxGeometry x="430" y="310" width="100" height="50" as="geometry" />
+          <mxGeometry x="417" y="330" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ckfWc3geHlRKN2jMbvU5-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ckfWc3geHlRKN2jMbvU5-90" target="ckfWc3geHlRKN2jMbvU5-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -141,243 +141,243 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ckfWc3geHlRKN2jMbvU5-90" value="data&#xa;Pre-processed&#xa;Data" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" name="data" vertex="1">
-          <mxGeometry x="610" y="410" width="100" height="50" as="geometry" />
+          <mxGeometry x="597" y="430" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ckfWc3geHlRKN2jMbvU5-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ckfWc3geHlRKN2jMbvU5-92" target="ckfWc3geHlRKN2jMbvU5-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ckfWc3geHlRKN2jMbvU5-92" value="infer:deduce" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" name="infer:deduce" vertex="1">
-          <mxGeometry x="430" y="510" width="100" height="50" as="geometry" />
+          <mxGeometry x="417" y="530" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ckfWc3geHlRKN2jMbvU5-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ckfWc3geHlRKN2jMbvU5-94" target="ckfWc3geHlRKN2jMbvU5-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ckfWc3geHlRKN2jMbvU5-94" value="data&#xa;Features" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" name="data" vertex="1" tooltip="⚠️ Node not part of any valid pattern.">
-          <mxGeometry x="250" y="610" width="100" height="50" as="geometry" />
+          <mxGeometry x="237" y="630" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QngEW5WID09U4wTgbxZI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ckfWc3geHlRKN2jMbvU5-96" target="QngEW5WID09U4wTgbxZI-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ckfWc3geHlRKN2jMbvU5-96" value="generate:engineer" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" name="generate:engineer" vertex="1" tooltip="⚠️ Node not part of any valid pattern.">
-          <mxGeometry x="430" y="710" width="100" height="50" as="geometry" />
+          <mxGeometry x="417" y="730" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_u8cDO08nevHUtDzr0_k-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QngEW5WID09U4wTgbxZI-1" target="_u8cDO08nevHUtDzr0_k-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="model:hybrid&#xa;ANFIS&#xa;Framework" tooltip="case-based&#xa;dynamic&#xa;hybrid&#xa;ML&#xa;rule-based&#xa;semantic&#xa;static&#xa;statisic&#xa;statistical" id="QngEW5WID09U4wTgbxZI-1">
           <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;fillColor=#b0e3e6;strokeColor=#0e8088;" name="model" vertex="1" parent="1" tooltip="⚠️ Node not part of any valid pattern.">
-            <mxGeometry x="600" y="710" width="120" height="50" as="geometry" />
+            <mxGeometry x="587" y="730" width="120" height="50" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="QngEW5WID09U4wTgbxZI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QngEW5WID09U4wTgbxZI-3" target="ckfWc3geHlRKN2jMbvU5-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QngEW5WID09U4wTgbxZI-3" value="symbol&#xa;Fuzzy Rules" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" parent="1" tooltip="⚠️ Node not part of any valid pattern.">
-          <mxGeometry x="430" y="840" width="100" height="50" as="geometry" />
+          <mxGeometry x="417" y="860" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QngEW5WID09U4wTgbxZI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QngEW5WID09U4wTgbxZI-8" target="QngEW5WID09U4wTgbxZI-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="model:hybrid&#xa;ANFIS" tooltip="case-based&#xa;dynamic&#xa;hybrid&#xa;ML&#xa;rule-based&#xa;semantic&#xa;static&#xa;statisic&#xa;statistical" id="QngEW5WID09U4wTgbxZI-8">
           <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;fillColor=#b0e3e6;strokeColor=#0e8088;" name="model" vertex="1" parent="1" tooltip="⚠️ Node not part of any valid pattern.">
-            <mxGeometry x="950" y="610" width="120" height="50" as="geometry" />
+            <mxGeometry x="937" y="630" width="120" height="50" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="QngEW5WID09U4wTgbxZI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QngEW5WID09U4wTgbxZI-12" target="QngEW5WID09U4wTgbxZI-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QngEW5WID09U4wTgbxZI-12" value="infer:predict" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#bac8d3;strokeColor=#23445d;" name="infer:deduce" vertex="1" parent="1">
-          <mxGeometry x="1150" y="610" width="100" height="50" as="geometry" />
+          <mxGeometry x="1137" y="630" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QngEW5WID09U4wTgbxZI-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QngEW5WID09U4wTgbxZI-14" target="QngEW5WID09U4wTgbxZI-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QngEW5WID09U4wTgbxZI-14" value="data&#xa;Patient&#xa;Mammographic" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="1">
-          <mxGeometry x="1150" y="480" width="100" height="50" as="geometry" />
+          <mxGeometry x="1137" y="500" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QngEW5WID09U4wTgbxZI-16" value="symbol&#xa;Diagnosis&#xa;Severity" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" parent="1">
-          <mxGeometry x="1330" y="610" width="100" height="50" as="geometry" />
+          <mxGeometry x="1317" y="630" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_u8cDO08nevHUtDzr0_k-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_u8cDO08nevHUtDzr0_k-1" target="QngEW5WID09U4wTgbxZI-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_u8cDO08nevHUtDzr0_k-1" value="infer:deduce" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#bac8d3;strokeColor=#23445d;" name="infer:deduce" vertex="1" parent="1">
-          <mxGeometry x="760" y="610" width="100" height="50" as="geometry" />
+          <mxGeometry x="747" y="630" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="V3BM_IV18A_MNnC95dAm-1" value="&lt;div&gt;edit:&lt;/div&gt;&lt;div&gt;generate -&amp;gt; infer&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
-          <mxGeometry x="830" y="560" width="105" height="40" as="geometry" />
+          <mxGeometry x="817" y="580" width="105" height="40" as="geometry" />
         </mxCell>
         <UserObject label="&amp;lt;-- Back to Generalized Pattern" link="data:page/id,oA1FpRplDqC-GJJbkCT9" id="BSNMRGv0uwgQlTI5zLIQ-1">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
-            <mxGeometry x="280" y="240" width="180" height="30" as="geometry" />
+            <mxGeometry x="267" y="260" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="_w0Uxt3RLLghRVp-99MB" name="REML First Refined Pattern - Pre-processing">
-    <mxGraphModel dx="2285" dy="1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2285" dy="1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YWcahhPDLEeDCEqzqjfC-1" value="1d Pre-processing" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
-          <mxGeometry x="384" y="344" width="390" height="150" as="geometry" />
+          <mxGeometry x="627" y="515" width="390" height="150" as="geometry" />
         </mxCell>
         <mxCell id="YWcahhPDLEeDCEqzqjfC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YWcahhPDLEeDCEqzqjfC-3" target="YWcahhPDLEeDCEqzqjfC-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YWcahhPDLEeDCEqzqjfC-3" value="data&#xa;Raw&#xa;Mammographic" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="1">
-          <mxGeometry x="354" y="374" width="100" height="50" as="geometry" />
+          <mxGeometry x="597" y="545" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YWcahhPDLEeDCEqzqjfC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YWcahhPDLEeDCEqzqjfC-5" target="YWcahhPDLEeDCEqzqjfC-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YWcahhPDLEeDCEqzqjfC-5" value="transform" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" name="transform" vertex="1" parent="1">
-          <mxGeometry x="534" y="374" width="100" height="50" as="geometry" />
+          <mxGeometry x="777" y="545" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YWcahhPDLEeDCEqzqjfC-6" value="data&#xa;Pre-processed&#xa;Data" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="1">
-          <mxGeometry x="714" y="474" width="100" height="50" as="geometry" />
+          <mxGeometry x="957" y="645" width="100" height="50" as="geometry" />
         </mxCell>
         <UserObject label="&amp;lt;-- Back to Generalized Pattern" link="data:page/id,oA1FpRplDqC-GJJbkCT9" id="DakVgRc9VfMyzVYjXKAE-1">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
-            <mxGeometry x="384" y="304" width="180" height="30" as="geometry" />
+            <mxGeometry x="627" y="475" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="9uLMIDaNepioojl0RxjD" name="REML First Refined Pattern - Embed Rules in Layers">
-    <mxGraphModel dx="2285" dy="1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2285" dy="1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GEkeut43FTT4XaOvg71u-1" value="1c Generate the Equivalent ANFIS Architecture" style="text;html=1;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
-          <mxGeometry x="379" y="409" width="390" height="220" as="geometry" />
+          <mxGeometry x="622" y="580" width="390" height="220" as="geometry" />
         </mxCell>
         <mxCell id="GEkeut43FTT4XaOvg71u-2" value="1 Fuzzy Rough Set Application" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
-          <mxGeometry x="379" y="209" width="390" height="190" as="geometry" />
+          <mxGeometry x="622" y="380" width="390" height="190" as="geometry" />
         </mxCell>
         <mxCell id="GEkeut43FTT4XaOvg71u-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GEkeut43FTT4XaOvg71u-4" target="GEkeut43FTT4XaOvg71u-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GEkeut43FTT4XaOvg71u-4" value="data&#xa;Pre-processed&#xa;Data" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="1">
-          <mxGeometry x="709" y="179" width="100" height="50" as="geometry" />
+          <mxGeometry x="952" y="350" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GEkeut43FTT4XaOvg71u-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GEkeut43FTT4XaOvg71u-6" target="GEkeut43FTT4XaOvg71u-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GEkeut43FTT4XaOvg71u-6" value="infer:deduce" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#bac8d3;strokeColor=#23445d;" name="infer:deduce" vertex="1" parent="1">
-          <mxGeometry x="529" y="279" width="100" height="50" as="geometry" />
+          <mxGeometry x="772" y="450" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GEkeut43FTT4XaOvg71u-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GEkeut43FTT4XaOvg71u-8" target="GEkeut43FTT4XaOvg71u-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GEkeut43FTT4XaOvg71u-8" value="data&#xa;Features" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" tooltip="⚠️ Node not part of any valid pattern." parent="1">
-          <mxGeometry x="349" y="379" width="100" height="50" as="geometry" />
+          <mxGeometry x="592" y="550" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GEkeut43FTT4XaOvg71u-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GEkeut43FTT4XaOvg71u-10" target="GEkeut43FTT4XaOvg71u-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GEkeut43FTT4XaOvg71u-10" value="generate:engineer" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" name="generate:engineer" vertex="1" tooltip="⚠️ Node not part of any valid pattern." parent="1">
-          <mxGeometry x="529" y="479" width="100" height="50" as="geometry" />
+          <mxGeometry x="772" y="650" width="100" height="50" as="geometry" />
         </mxCell>
         <object label="model:hybrid&#xa;ANFIS&#xa;Framework" tooltip="case-based&#xa;dynamic&#xa;hybrid&#xa;ML&#xa;rule-based&#xa;semantic&#xa;static&#xa;statisic&#xa;statistical" id="GEkeut43FTT4XaOvg71u-11">
           <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;fillColor=#b0e3e6;strokeColor=#0e8088;" name="model" vertex="1" tooltip="⚠️ Node not part of any valid pattern." parent="1">
-            <mxGeometry x="699" y="479" width="120" height="50" as="geometry" />
+            <mxGeometry x="942" y="650" width="120" height="50" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="GEkeut43FTT4XaOvg71u-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GEkeut43FTT4XaOvg71u-13" target="GEkeut43FTT4XaOvg71u-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GEkeut43FTT4XaOvg71u-13" value="symbol&#xa;Fuzzy Rules" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" tooltip="⚠️ Node not part of any valid pattern." parent="1">
-          <mxGeometry x="529" y="609" width="100" height="50" as="geometry" />
+          <mxGeometry x="772" y="780" width="100" height="50" as="geometry" />
         </mxCell>
         <UserObject label="&amp;lt;-- Back to Generalized Pattern" link="data:page/id,oA1FpRplDqC-GJJbkCT9" id="7t73pY0QdnBN04SvdRYd-1">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
-            <mxGeometry x="379" y="169" width="180" height="30" as="geometry" />
+            <mxGeometry x="622" y="340" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="NLweTCLcVa4KWeWz6Whe" name="REML First Refined Pattern - Train Model">
-    <mxGraphModel dx="1828" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1828" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VNyF8Vc6xqKz99wmaFul-1" value="1a Train the ANFIS Model" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
-          <mxGeometry x="430" y="234" width="340" height="400" as="geometry" />
+          <mxGeometry x="672" y="405" width="340" height="400" as="geometry" />
         </mxCell>
         <mxCell id="VNyF8Vc6xqKz99wmaFul-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VNyF8Vc6xqKz99wmaFul-3" target="VNyF8Vc6xqKz99wmaFul-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VNyF8Vc6xqKz99wmaFul-3" value="data&#xa;Pre-processed&#xa;Data" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="1">
-          <mxGeometry x="360" y="264" width="100" height="50" as="geometry" />
+          <mxGeometry x="602" y="435" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VNyF8Vc6xqKz99wmaFul-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VNyF8Vc6xqKz99wmaFul-5" target="VNyF8Vc6xqKz99wmaFul-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="model:hybrid&#xa;ANFIS&#xa;Framework" tooltip="case-based&#xa;dynamic&#xa;hybrid&#xa;ML&#xa;rule-based&#xa;semantic&#xa;static&#xa;statisic&#xa;statistical" id="VNyF8Vc6xqKz99wmaFul-5">
           <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;fillColor=#b0e3e6;strokeColor=#0e8088;" name="model" vertex="1" tooltip="⚠️ Node not part of any valid pattern." parent="1">
-            <mxGeometry x="350" y="564" width="120" height="50" as="geometry" />
+            <mxGeometry x="592" y="735" width="120" height="50" as="geometry" />
           </mxCell>
         </object>
         <object label="model:hybrid&#xa;ANFIS" tooltip="case-based&#xa;dynamic&#xa;hybrid&#xa;ML&#xa;rule-based&#xa;semantic&#xa;static&#xa;statisic&#xa;statistical" id="VNyF8Vc6xqKz99wmaFul-6">
           <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;fillColor=#b0e3e6;strokeColor=#0e8088;" name="model" vertex="1" tooltip="⚠️ Node not part of any valid pattern." parent="1">
-            <mxGeometry x="700" y="464" width="120" height="50" as="geometry" />
+            <mxGeometry x="942" y="635" width="120" height="50" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="VNyF8Vc6xqKz99wmaFul-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VNyF8Vc6xqKz99wmaFul-8" target="VNyF8Vc6xqKz99wmaFul-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VNyF8Vc6xqKz99wmaFul-8" value="infer:deduce" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#bac8d3;strokeColor=#23445d;" name="infer:deduce" vertex="1" parent="1">
-          <mxGeometry x="510" y="464" width="100" height="50" as="geometry" />
+          <mxGeometry x="752" y="635" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VNyF8Vc6xqKz99wmaFul-9" value="&lt;div&gt;edit:&lt;/div&gt;&lt;div&gt;generate -&amp;gt; infer&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
-          <mxGeometry x="580" y="414" width="105" height="40" as="geometry" />
+          <mxGeometry x="822" y="585" width="105" height="40" as="geometry" />
         </mxCell>
         <UserObject label="&amp;lt;-- Back to Generalized Pattern" link="data:page/id,oA1FpRplDqC-GJJbkCT9" id="Q9SHOjpGW0kTLJUWi_Bc-1">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
-            <mxGeometry x="430" y="194" width="180" height="30" as="geometry" />
+            <mxGeometry x="672" y="365" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="AcmrKRkgNT12GRiLd8u0" name="REML First Refined Pattern - Prediction Making">
-    <mxGraphModel dx="1523" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2285" dy="1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="f451IjjHloZX-t9iMtht-1" value="&lt;div&gt;2a Use the ANFIS&lt;/div&gt;&lt;div&gt;Model for Prediction&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
-          <mxGeometry x="425" y="354" width="350" height="180" as="geometry" />
+          <mxGeometry x="667" y="524" width="350" height="180" as="geometry" />
         </mxCell>
         <mxCell id="f451IjjHloZX-t9iMtht-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f451IjjHloZX-t9iMtht-3" target="f451IjjHloZX-t9iMtht-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="model:hybrid&#xa;ANFIS" tooltip="case-based&#xa;dynamic&#xa;hybrid&#xa;ML&#xa;rule-based&#xa;semantic&#xa;static&#xa;statisic&#xa;statistical" id="f451IjjHloZX-t9iMtht-3">
           <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;fillColor=#b0e3e6;strokeColor=#0e8088;" name="model" vertex="1" tooltip="⚠️ Node not part of any valid pattern." parent="1">
-            <mxGeometry x="345" y="464" width="120" height="50" as="geometry" />
+            <mxGeometry x="587" y="634" width="120" height="50" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="f451IjjHloZX-t9iMtht-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f451IjjHloZX-t9iMtht-5" target="f451IjjHloZX-t9iMtht-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f451IjjHloZX-t9iMtht-5" value="infer:predict" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#bac8d3;strokeColor=#23445d;" name="infer:deduce" vertex="1" parent="1">
-          <mxGeometry x="545" y="464" width="100" height="50" as="geometry" />
+          <mxGeometry x="787" y="634" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="f451IjjHloZX-t9iMtht-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f451IjjHloZX-t9iMtht-7" target="f451IjjHloZX-t9iMtht-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f451IjjHloZX-t9iMtht-7" value="data&#xa;Patient&#xa;Mammographic" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="1">
-          <mxGeometry x="545" y="334" width="100" height="50" as="geometry" />
+          <mxGeometry x="787" y="504" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="f451IjjHloZX-t9iMtht-8" value="symbol&#xa;Diagnosis&#xa;Severity" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" parent="1">
-          <mxGeometry x="725" y="464" width="100" height="50" as="geometry" />
+          <mxGeometry x="967" y="634" width="100" height="50" as="geometry" />
         </mxCell>
         <UserObject label="&amp;lt;-- Back to Generalized Pattern" link="data:page/id,oA1FpRplDqC-GJJbkCT9" id="ZAAu8py9yLRIVOiVAFve-1">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
-            <mxGeometry x="425" y="294" width="180" height="30" as="geometry" />
+            <mxGeometry x="667" y="464" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
