@@ -103,7 +103,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LnQA7NeD5pWyeA027Ttc" name="REML First Refined Pattern">
-    <mxGraphModel dx="1310" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -207,6 +207,11 @@
         <mxCell id="V3BM_IV18A_MNnC95dAm-1" value="&lt;div&gt;edit:&lt;/div&gt;&lt;div&gt;generate -&amp;gt; infer&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
           <mxGeometry x="1040" y="480" width="105" height="40" as="geometry" />
         </mxCell>
+        <UserObject label="&amp;lt;-- Back to Generalized Pattern" link="data:page/id,oA1FpRplDqC-GJJbkCT9" id="BSNMRGv0uwgQlTI5zLIQ-1">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
+            <mxGeometry x="490" y="160" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
@@ -233,6 +238,11 @@
         <mxCell id="YWcahhPDLEeDCEqzqjfC-6" value="data&#xa;Pre-processed&#xa;Data" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="1">
           <mxGeometry x="930" y="390" width="100" height="50" as="geometry" />
         </mxCell>
+        <UserObject label="&amp;lt;-- Back to Generalized Pattern" link="data:page/id,oA1FpRplDqC-GJJbkCT9" id="DakVgRc9VfMyzVYjXKAE-1">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
+            <mxGeometry x="600" y="220" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
@@ -282,6 +292,11 @@
         <mxCell id="GEkeut43FTT4XaOvg71u-13" value="symbol&#xa;Fuzzy Rules" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" tooltip="⚠️ Node not part of any valid pattern." parent="1">
           <mxGeometry x="530" y="700" width="100" height="50" as="geometry" />
         </mxCell>
+        <UserObject label="&amp;lt;-- Back to Generalized Pattern" link="data:page/id,oA1FpRplDqC-GJJbkCT9" id="7t73pY0QdnBN04SvdRYd-1">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
+            <mxGeometry x="380" y="260" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
@@ -321,6 +336,11 @@
         <mxCell id="VNyF8Vc6xqKz99wmaFul-9" value="&lt;div&gt;edit:&lt;/div&gt;&lt;div&gt;generate -&amp;gt; infer&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
           <mxGeometry x="520" y="500" width="105" height="40" as="geometry" />
         </mxCell>
+        <UserObject label="&amp;lt;-- Back to Generalized Pattern" link="data:page/id,oA1FpRplDqC-GJJbkCT9" id="Q9SHOjpGW0kTLJUWi_Bc-1">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
+            <mxGeometry x="370" y="280" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
@@ -355,6 +375,11 @@
         <mxCell id="f451IjjHloZX-t9iMtht-8" value="symbol&#xa;Diagnosis&#xa;Severity" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" parent="1">
           <mxGeometry x="1540" y="530" width="100" height="50" as="geometry" />
         </mxCell>
+        <UserObject label="&amp;lt;-- Back to Generalized Pattern" link="data:page/id,oA1FpRplDqC-GJJbkCT9" id="ZAAu8py9yLRIVOiVAFve-1">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="1">
+            <mxGeometry x="1240" y="360" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
