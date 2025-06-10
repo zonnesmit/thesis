@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.4">
-  <diagram name="Page-1" id="RjkWltox62vTc8GNIFXi">
-    <mxGraphModel dx="1075" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.4" pages="2">
+  <diagram name="Generalized Pattern" id="RjkWltox62vTc8GNIFXi">
+    <mxGraphModel dx="1523" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,6 +95,46 @@
         </mxCell>
         <mxCell id="9kNU0SyaG1HSVs7dnBc6-27" value="symbol" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" name="symbol" vertex="1">
           <mxGeometry x="1000" y="850" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bpTPkh_b8MMVzBpaRUfI" name="Page-2">
+    <mxGraphModel dx="914" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P6aYutjB4kirDS49fqMC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P6aYutjB4kirDS49fqMC-1" target="P6aYutjB4kirDS49fqMC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P6aYutjB4kirDS49fqMC-1" value="data&#xa;Osteoarthritis&#xa;Data" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="1">
+          <mxGeometry x="420" y="230" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P6aYutjB4kirDS49fqMC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P6aYutjB4kirDS49fqMC-2" target="P6aYutjB4kirDS49fqMC-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P6aYutjB4kirDS49fqMC-2" value="transform" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" name="transform" vertex="1" parent="1">
+          <mxGeometry x="600" y="230" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P6aYutjB4kirDS49fqMC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P6aYutjB4kirDS49fqMC-4" target="P6aYutjB4kirDS49fqMC-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P6aYutjB4kirDS49fqMC-4" value="data&#xa;Extracted&#xa;Features" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="1">
+          <mxGeometry x="730" y="330" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P6aYutjB4kirDS49fqMC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P6aYutjB4kirDS49fqMC-6" target="P6aYutjB4kirDS49fqMC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P6aYutjB4kirDS49fqMC-6" value="infer:deduce" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#bac8d3;strokeColor=#23445d;" name="infer:deduce" vertex="1" parent="1">
+          <mxGeometry x="600" y="430" width="100" height="50" as="geometry" />
+        </mxCell>
+        <object label="model:semantic&#xa;FIS 1" tooltip="case-based&#xa;dynamic&#xa;hybrid&#xa;ML&#xa;rule-based&#xa;semantic&#xa;static&#xa;statisic&#xa;statistical" id="P6aYutjB4kirDS49fqMC-8">
+          <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;fillColor=#b0e3e6;strokeColor=#0e8088;" name="model" vertex="1" parent="1">
+            <mxGeometry x="410" y="430" width="120" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="P6aYutjB4kirDS49fqMC-10" value="generate:engineer" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" name="generate:engineer" vertex="1" parent="1">
+          <mxGeometry x="300" y="530" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
