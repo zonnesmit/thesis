@@ -104,6 +104,24 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4E6p7irhZmIrbqkED1yw-33" value="2a Prediction" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" name="text" vertex="1" parent="1">
+          <mxGeometry x="1100" y="400" width="350" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="4E6p7irhZmIrbqkED1yw-32" value="1a Learning Process" style="text;html=1;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" name="text" vertex="1" parent="1">
+          <mxGeometry x="790" y="360" width="300" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="4E6p7irhZmIrbqkED1yw-31" value="2a FIS 2" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" name="text" vertex="1" parent="1">
+          <mxGeometry x="480" y="585" width="500" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="4E6p7irhZmIrbqkED1yw-30" value="1c FIS Creation" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" name="text" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="310" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="4E6p7irhZmIrbqkED1yw-29" value="2a FIS 1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" name="text" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="300" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="4E6p7irhZmIrbqkED1yw-26" value="1d Pre-processing and Feature Selection" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" name="text" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="370" height="150" as="geometry" />
+        </mxCell>
         <mxCell id="P6aYutjB4kirDS49fqMC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="P6aYutjB4kirDS49fqMC-1" target="P6aYutjB4kirDS49fqMC-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -116,10 +134,10 @@
         <mxCell id="P6aYutjB4kirDS49fqMC-2" value="transform" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" name="transform" vertex="1">
           <mxGeometry x="600" y="230" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="P6aYutjB4kirDS49fqMC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="P6aYutjB4kirDS49fqMC-4" target="P6aYutjB4kirDS49fqMC-6" edge="1">
+        <mxCell id="4E6p7irhZmIrbqkED1yw-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P6aYutjB4kirDS49fqMC-4" target="4E6p7irhZmIrbqkED1yw-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4E6p7irhZmIrbqkED1yw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P6aYutjB4kirDS49fqMC-4" target="4E6p7irhZmIrbqkED1yw-13">
+        <mxCell id="4E6p7irhZmIrbqkED1yw-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P6aYutjB4kirDS49fqMC-4" target="P6aYutjB4kirDS49fqMC-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P6aYutjB4kirDS49fqMC-4" value="data&#xa;Extracted&#xa;Features" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" name="data" vertex="1">
