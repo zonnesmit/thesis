@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.5" pages="7">
   <diagram name="Generalized Pattern" id="4tOXoyzTGzTHZ8qvR4KX">
-    <mxGraphModel dx="1429" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,9 +100,6 @@
         <mxCell id="fIGQkDf6deLxDd5C9NF3-27" value="symbol" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" name="symbol" vertex="1">
           <mxGeometry x="779" y="927" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fIGQkDf6deLxDd5C9NF3-35" value="&lt;div&gt;edit:&lt;/div&gt;&lt;div&gt;generate -&amp;gt; infer&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" parent="1" name="text" vertex="1">
-          <mxGeometry x="519" y="612" width="105" height="40" as="geometry" />
-        </mxCell>
         <UserObject label="--&amp;gt; Link to Refined Pattern" link="data:page/id,_Aafsr8gk86pdz7JJuJ_" id="GPF9xSWLRAV1yqIRE5cc-1">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" parent="1" name="text" vertex="1">
             <mxGeometry x="419" y="167" width="160" height="30" as="geometry" />
@@ -112,7 +109,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_Aafsr8gk86pdz7JJuJ_" name="Refined Pattern">
-    <mxGraphModel dx="2246" dy="1346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1310" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,7 +187,7 @@
         </mxCell>
         <object label="model:hybrid&#xa;Fuzzy Decision&#xa;Tree" tooltip="case-based&#xa;dynamic&#xa;hybrid&#xa;ML&#xa;rule-based&#xa;semantic&#xa;static&#xa;statisic&#xa;statistical" id="-9rlEsQMjqUOY8aXWfB_-17">
           <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" name="model" vertex="1">
-            <mxGeometry x="1004" y="850" width="120" height="50" as="geometry" />
+            <mxGeometry x="1004" y="850" width="105" height="50" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="-9rlEsQMjqUOY8aXWfB_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-9rlEsQMjqUOY8aXWfB_-23" target="-9rlEsQMjqUOY8aXWfB_-25" edge="1">
@@ -198,7 +195,7 @@
         </mxCell>
         <object label="model:hybrid&#xa;Optimized Set" tooltip="case-based&#xa;dynamic&#xa;hybrid&#xa;ML&#xa;rule-based&#xa;semantic&#xa;static&#xa;statisic&#xa;statistical" id="-9rlEsQMjqUOY8aXWfB_-23">
           <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" name="model" vertex="1">
-            <mxGeometry x="692" y="950" width="120" height="50" as="geometry" />
+            <mxGeometry x="692" y="950" width="105" height="50" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="-9rlEsQMjqUOY8aXWfB_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-9rlEsQMjqUOY8aXWfB_-25" target="-9rlEsQMjqUOY8aXWfB_-28" edge="1">
@@ -394,7 +391,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vZ8Apz0TllzZOPs2fBir" name="Refined Pattern 2">
-    <mxGraphModel dx="2246" dy="1346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1747" dy="1047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
