@@ -4,27 +4,35 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="W98hdf0u78axuI_yLUaM-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="W98hdf0u78axuI_yLUaM-47" target="W98hdf0u78axuI_yLUaM-48" parent="1">
+        <mxCell id="noxMbJWHKbQ-gt63ay76-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="noxMbJWHKbQ-gt63ay76-6" target="noxMbJWHKbQ-gt63ay76-8" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="transform" tooltip="embed" id="W98hdf0u78axuI_yLUaM-47">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" name="transform" vertex="1" parent="1" tooltip="⚠️ Node not part of any valid pattern.">
-            <mxGeometry x="420" y="260" width="100" height="50" as="geometry" />
+        <UserObject label="data" tooltip="number&#xa;text&#xa;tensor&#xa;stream&#xa;(matrix)&#xa;(numeric)&#xa;(time-series)" id="noxMbJWHKbQ-gt63ay76-6">
+          <mxCell style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="1">
+            <mxGeometry x="180" y="290" width="100" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="data" tooltip="number&#xa;text&#xa;tensor&#xa;stream&#xa;(matrix)&#xa;(numeric)&#xa;(time-series)" id="W98hdf0u78axuI_yLUaM-48">
-          <mxCell style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="1" tooltip="⚠️ Node not part of any valid pattern.">
-            <mxGeometry x="600" y="260" width="100" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="W98hdf0u78axuI_yLUaM-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W98hdf0u78axuI_yLUaM-49" target="W98hdf0u78axuI_yLUaM-47">
+        <mxCell id="noxMbJWHKbQ-gt63ay76-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="noxMbJWHKbQ-gt63ay76-8" target="noxMbJWHKbQ-gt63ay76-9" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="symbol" tooltip="label&#xa;trace&#xa;(text)" id="W98hdf0u78axuI_yLUaM-49">
-          <mxCell style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" parent="1" tooltip="⚠️ Node not part of any valid pattern.">
-            <mxGeometry x="240" y="260" width="100" height="50" as="geometry" />
+        <UserObject label="infer:deduce" tooltip="predict" id="noxMbJWHKbQ-gt63ay76-8">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#bac8d3;strokeColor=#23445d;" name="infer:deduce" vertex="1" parent="1">
+            <mxGeometry x="360" y="290" width="100" height="50" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="symbol" tooltip="label&#xa;trace&#xa;(text)" id="noxMbJWHKbQ-gt63ay76-9">
+          <mxCell style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" parent="1">
+            <mxGeometry x="540" y="290" width="100" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="noxMbJWHKbQ-gt63ay76-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="noxMbJWHKbQ-gt63ay76-11" target="noxMbJWHKbQ-gt63ay76-8" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="model" tooltip="semantic&#xa;statistical&#xa;(case-based)&#xa;(dynamic)&#xa;(hybrid)&#xa;(ML)&#xa;(rule-based)&#xa;(static)" id="noxMbJWHKbQ-gt63ay76-11">
+          <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;fillColor=#b0e3e6;strokeColor=#0e8088;size=0.19047619047619047;" name="model" vertex="1" parent="1">
+            <mxGeometry x="357.5" y="160" width="105" height="50" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
