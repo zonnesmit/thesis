@@ -4,18 +4,21 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-cP8rCK_acSLmQWxrZDS-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="-cP8rCK_acSLmQWxrZDS-89" target="-cP8rCK_acSLmQWxrZDS-90" parent="1">
+        <mxCell id="-cP8rCK_acSLmQWxrZDS-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-cP8rCK_acSLmQWxrZDS-89" target="-cP8rCK_acSLmQWxrZDS-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-cP8rCK_acSLmQWxrZDS-89" value="generate:train" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" name="generate:train" vertex="1" parent="1">
+        <mxCell id="-cP8rCK_acSLmQWxrZDS-89" value="generate:train" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" name="generate:train" vertex="1" tooltip="⚠️ Node not part of any valid pattern.">
           <mxGeometry x="680" y="310" width="100" height="50" as="geometry" />
         </mxCell>
         <object label="model" tooltip="semantic&#xa;statistical&#xa;(case-based)&#xa;(dynamic)&#xa;(hybrid)&#xa;(ML)&#xa;(rule-based)&#xa;(static)" id="-cP8rCK_acSLmQWxrZDS-90">
-          <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;fillColor=#b0e3e6;strokeColor=#0e8088;size=0.19047619047619047;" name="model" vertex="1" parent="1">
+          <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;fillColor=#b0e3e6;strokeColor=#0e8088;size=0.19047619047619047;" parent="1" name="model" vertex="1" tooltip="⚠️ Node not part of any valid pattern.">
             <mxGeometry x="860" y="310" width="105" height="50" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="-cP8rCK_acSLmQWxrZDS-93" value="symbol/data" style="rectangle;fillColor=#d5e8d4;strokeColor=#82b366;" name="symbol/data" vertex="1" parent="1">
+        <mxCell id="QEl-q4XJynDyFSoa-7ZO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-cP8rCK_acSLmQWxrZDS-93" target="-cP8rCK_acSLmQWxrZDS-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-cP8rCK_acSLmQWxrZDS-93" value="symbol/data" style="rectangle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" name="symbol/data" vertex="1" tooltip="⚠️ Node not part of any valid pattern.">
           <mxGeometry x="500" y="310" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
