@@ -1,0 +1,24 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.6">
+  <diagram id="fjhbV3nrnY6ZYSdmAjTp" name="Page-1">
+    <mxGraphModel dx="786" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-cP8rCK_acSLmQWxrZDS-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="-cP8rCK_acSLmQWxrZDS-89" target="-cP8rCK_acSLmQWxrZDS-90" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-cP8rCK_acSLmQWxrZDS-89" value="generate:train" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" name="generate:train" vertex="1" parent="1">
+          <mxGeometry x="680" y="310" width="100" height="50" as="geometry" />
+        </mxCell>
+        <object label="model" tooltip="semantic&#xa;statistical&#xa;(case-based)&#xa;(dynamic)&#xa;(hybrid)&#xa;(ML)&#xa;(rule-based)&#xa;(static)" id="-cP8rCK_acSLmQWxrZDS-90">
+          <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;fillColor=#b0e3e6;strokeColor=#0e8088;size=0.19047619047619047;" name="model" vertex="1" parent="1">
+            <mxGeometry x="860" y="310" width="105" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="-cP8rCK_acSLmQWxrZDS-93" value="symbol/data" style="rectangle;fillColor=#d5e8d4;strokeColor=#82b366;" name="symbol/data" vertex="1" parent="1">
+          <mxGeometry x="500" y="310" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
