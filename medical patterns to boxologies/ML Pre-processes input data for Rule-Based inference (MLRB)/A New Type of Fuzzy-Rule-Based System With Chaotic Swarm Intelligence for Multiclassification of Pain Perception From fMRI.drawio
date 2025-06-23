@@ -198,6 +198,9 @@
         <mxCell id="4rnoqBLfBF95VHf1nh43-37" value="symbol&#xa;Pain Levels" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="4rnoqBLfBF95VHf1nh43-1" name="symbol" vertex="1" tooltip="⚠️ Node not part of any valid pattern.">
           <mxGeometry x="1240" y="600" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="TX1xbnqkfW25_OCwx6nK-0" value="error" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;fontFamily=Helvetica;fontSize=12;horizontal=1;" name="text" vertex="1" parent="4rnoqBLfBF95VHf1nh43-1">
+          <mxGeometry x="1100" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
