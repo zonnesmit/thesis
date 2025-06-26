@@ -95,7 +95,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-1" id="7jMs3t7Amxwb0n5GiYet">
-    <mxGraphModel dx="1429" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1965" dy="1178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="esuKJLM2PUYB_PSEeGXO-0" />
         <mxCell id="esuKJLM2PUYB_PSEeGXO-1" parent="esuKJLM2PUYB_PSEeGXO-0" />
@@ -156,7 +156,7 @@
         <mxCell id="0fCW47z0ocTnn_axHcBl-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="esuKJLM2PUYB_PSEeGXO-1" source="esuKJLM2PUYB_PSEeGXO-20" target="esuKJLM2PUYB_PSEeGXO-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="esuKJLM2PUYB_PSEeGXO-20" value="actor&#xa;Radiologist" style="triangle;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="esuKJLM2PUYB_PSEeGXO-1" name="actor" vertex="1" tooltip="⚠️ Node not part of any valid pattern.">
+        <mxCell id="esuKJLM2PUYB_PSEeGXO-20" value="actor&#xa;Radiologist" style="triangle;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="esuKJLM2PUYB_PSEeGXO-1" name="actor" vertex="1">
           <mxGeometry x="900" y="760" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="esuKJLM2PUYB_PSEeGXO-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="esuKJLM2PUYB_PSEeGXO-1" source="esuKJLM2PUYB_PSEeGXO-23" target="esuKJLM2PUYB_PSEeGXO-24" edge="1">
@@ -185,9 +185,6 @@
         </mxCell>
         <mxCell id="esuKJLM2PUYB_PSEeGXO-30" value="data:images&#xa;Patient CT" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" parent="esuKJLM2PUYB_PSEeGXO-1" name="data" vertex="1">
           <mxGeometry x="900" y="1280" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="UjngnYroDk8a3AjCgzcq-0" value="&lt;div&gt;error&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" name="text" vertex="1" parent="esuKJLM2PUYB_PSEeGXO-1">
-          <mxGeometry x="980" y="950" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
