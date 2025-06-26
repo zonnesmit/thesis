@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.6" pages="2">
   <diagram name="Page-1" id="h0PWxtrREFUSOW_PxVd6">
     <mxGraphModel dx="1572" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -104,6 +104,134 @@
           <mxGeometry x="960" y="1210" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LKoQMFqLF7vu8nIyz2f1-37" value="symbol&#xa;Predicted Drug&#xa;Response" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" parent="1">
+          <mxGeometry x="780" y="1340" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Page-1" id="lHLC_ThY-gIKspZ7F6z3">
+    <mxGraphModel dx="1965" dy="1178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="SaI82S7puC8zja-GSPv3-0" />
+        <mxCell id="SaI82S7puC8zja-GSPv3-1" parent="SaI82S7puC8zja-GSPv3-0" />
+        <mxCell id="SaI82S7puC8zja-GSPv3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SaI82S7puC8zja-GSPv3-1" source="SaI82S7puC8zja-GSPv3-3" target="SaI82S7puC8zja-GSPv3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-3" value="data&#xa;Raw Genomic&#xa;Data" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="SaI82S7puC8zja-GSPv3-1">
+          <mxGeometry x="340" y="230" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SaI82S7puC8zja-GSPv3-1" source="SaI82S7puC8zja-GSPv3-5" target="SaI82S7puC8zja-GSPv3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-5" value="transform" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" name="transform" vertex="1" parent="SaI82S7puC8zja-GSPv3-1">
+          <mxGeometry x="520" y="230" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RB7NErebJs9u4h-jpAzJ-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SaI82S7puC8zja-GSPv3-1" source="SaI82S7puC8zja-GSPv3-6" target="SaI82S7puC8zja-GSPv3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-6" value="data&#xa;Processed&#xa;Dataset" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="SaI82S7puC8zja-GSPv3-1" tooltip="⚠️ Node not part of any valid pattern.">
+          <mxGeometry x="650" y="330" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RB7NErebJs9u4h-jpAzJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SaI82S7puC8zja-GSPv3-1" source="SaI82S7puC8zja-GSPv3-7" target="SaI82S7puC8zja-GSPv3-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RB7NErebJs9u4h-jpAzJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SaI82S7puC8zja-GSPv3-1" source="SaI82S7puC8zja-GSPv3-7" target="SaI82S7puC8zja-GSPv3-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RB7NErebJs9u4h-jpAzJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SaI82S7puC8zja-GSPv3-1" source="SaI82S7puC8zja-GSPv3-7" target="SaI82S7puC8zja-GSPv3-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RB7NErebJs9u4h-jpAzJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SaI82S7puC8zja-GSPv3-1" source="SaI82S7puC8zja-GSPv3-7" target="SaI82S7puC8zja-GSPv3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-7" value="generate:engineer" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" name="generate:engineer" vertex="1" parent="SaI82S7puC8zja-GSPv3-1" tooltip="⚠️ Node not part of any valid pattern.">
+          <mxGeometry x="780" y="430" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RB7NErebJs9u4h-jpAzJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SaI82S7puC8zja-GSPv3-1" source="SaI82S7puC8zja-GSPv3-9" target="SaI82S7puC8zja-GSPv3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-9" value="data&#xa;Structured&#xa;Biological Framework" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="SaI82S7puC8zja-GSPv3-1" tooltip="⚠️ Node not part of any valid pattern.">
+          <mxGeometry x="910" y="330" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SaI82S7puC8zja-GSPv3-1" source="SaI82S7puC8zja-GSPv3-12" target="SaI82S7puC8zja-GSPv3-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-12" value="transform" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;" name="transform" vertex="1" parent="SaI82S7puC8zja-GSPv3-1">
+          <mxGeometry x="1040" y="230" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SaI82S7puC8zja-GSPv3-1" source="SaI82S7puC8zja-GSPv3-14" target="SaI82S7puC8zja-GSPv3-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-14" value="data&#xa;Curated Biological&#xa;Information" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="SaI82S7puC8zja-GSPv3-1">
+          <mxGeometry x="1220" y="230" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RB7NErebJs9u4h-jpAzJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SaI82S7puC8zja-GSPv3-1" source="SaI82S7puC8zja-GSPv3-15" target="SaI82S7puC8zja-GSPv3-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-15" value="symbol&#xa;Pathway Layer" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" parent="SaI82S7puC8zja-GSPv3-1" tooltip="⚠️ Node not part of any valid pattern.">
+          <mxGeometry x="870" y="560" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RB7NErebJs9u4h-jpAzJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SaI82S7puC8zja-GSPv3-1" source="SaI82S7puC8zja-GSPv3-16" target="SaI82S7puC8zja-GSPv3-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-16" value="symbol&#xa;Drug Layer" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" parent="SaI82S7puC8zja-GSPv3-1" tooltip="⚠️ Node not part of any valid pattern.">
+          <mxGeometry x="1050" y="560" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RB7NErebJs9u4h-jpAzJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SaI82S7puC8zja-GSPv3-1" source="SaI82S7puC8zja-GSPv3-17" target="SaI82S7puC8zja-GSPv3-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-17" value="symbol&#xa;Protein Complex&#xa;Layer" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" parent="SaI82S7puC8zja-GSPv3-1" tooltip="⚠️ Node not part of any valid pattern.">
+          <mxGeometry x="690" y="560" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RB7NErebJs9u4h-jpAzJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SaI82S7puC8zja-GSPv3-1" source="SaI82S7puC8zja-GSPv3-18" target="SaI82S7puC8zja-GSPv3-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-18" value="symbol&#xa;Gene Layer" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" parent="SaI82S7puC8zja-GSPv3-1" tooltip="⚠️ Node not part of any valid pattern.">
+          <mxGeometry x="510" y="560" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SaI82S7puC8zja-GSPv3-1" source="SaI82S7puC8zja-GSPv3-21" target="SaI82S7puC8zja-GSPv3-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-21" value="generate:engineer" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" name="generate:engineer" vertex="1" parent="SaI82S7puC8zja-GSPv3-1" tooltip="⚠️ Node not part of any valid pattern.">
+          <mxGeometry x="780" y="690" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RB7NErebJs9u4h-jpAzJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SaI82S7puC8zja-GSPv3-1" source="SaI82S7puC8zja-GSPv3-23" target="SaI82S7puC8zja-GSPv3-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-23" value="model:hybrid&#xa;Fully Connected&#xa;Network" style="shape=hexagon;perimeter=hexagonPerimeter2;fillColor=#b0e3e6;strokeColor=#0e8088;" name="model" vertex="1" parent="SaI82S7puC8zja-GSPv3-1">
+          <mxGeometry x="770" y="820" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SaI82S7puC8zja-GSPv3-1" source="SaI82S7puC8zja-GSPv3-25" target="SaI82S7puC8zja-GSPv3-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-25" value="generate:train" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" name="generate:train" vertex="1" parent="SaI82S7puC8zja-GSPv3-1">
+          <mxGeometry x="780" y="950" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SaI82S7puC8zja-GSPv3-1" source="SaI82S7puC8zja-GSPv3-28" target="SaI82S7puC8zja-GSPv3-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-28" value="data&#xa;Gene Expression&#xa;Data" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="SaI82S7puC8zja-GSPv3-1">
+          <mxGeometry x="960" y="950" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SaI82S7puC8zja-GSPv3-1" source="SaI82S7puC8zja-GSPv3-30" target="SaI82S7puC8zja-GSPv3-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-30" value="model:hybrid&#xa;Refined Model" style="shape=hexagon;perimeter=hexagonPerimeter2;fillColor=#b0e3e6;strokeColor=#0e8088;" name="model" vertex="1" parent="SaI82S7puC8zja-GSPv3-1">
+          <mxGeometry x="770" y="1080" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SaI82S7puC8zja-GSPv3-1" source="SaI82S7puC8zja-GSPv3-32" target="SaI82S7puC8zja-GSPv3-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-32" value="infer:deduce" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#bac8d3;strokeColor=#23445d;" name="infer:deduce" vertex="1" parent="SaI82S7puC8zja-GSPv3-1">
+          <mxGeometry x="780" y="1210" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SaI82S7puC8zja-GSPv3-1" source="SaI82S7puC8zja-GSPv3-34" target="SaI82S7puC8zja-GSPv3-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-34" value="data&#xa;New Genomic&#xa;Data" style="rectangle;fillColor=#fff2cc;strokeColor=#d6b656;" name="data" vertex="1" parent="SaI82S7puC8zja-GSPv3-1">
+          <mxGeometry x="960" y="1210" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SaI82S7puC8zja-GSPv3-35" value="symbol&#xa;Predicted Drug&#xa;Response" style="rectangle;fillColor=#dae8fc;strokeColor=#6c8ebf;" name="symbol" vertex="1" parent="SaI82S7puC8zja-GSPv3-1">
           <mxGeometry x="780" y="1340" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
